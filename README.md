@@ -1,5 +1,5 @@
 # customer-churn-prediction
-## Overview
+## Overview ##
 
 Customer churn is a major challenge for subscription-based businesses because losing existing customers is often more expensive than acquiring new ones. This project aims to predict whether a customer is likely to churn based on demographic information, account details, and the services they use.
 The project includes data cleaning, exploratory data analysis (EDA), feature engineering, model training, evaluation, and prediction for new customers using a saved machine learning model.
